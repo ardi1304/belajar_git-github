@@ -47,7 +47,8 @@ table {
 body {
     font: 16px/28px arial, sans-serif;
     background-color: #eaeaea;
-    color: #333;
+    background-image: url(image/v300batch2-nunoon-13.jpg);
+    background-size: cover;
 }
 
 .container {
